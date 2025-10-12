@@ -1,0 +1,15 @@
+[submodule "Suma"]
+	path = Suma
+	url = https://github.com/2025-b-sw-construccion-gr2/carc-suma.git
+[submodule "Resta"]
+	path = Resta
+	url = https://github.com/2025-b-sw-construccion-gr2/carc-resta.git
+[submodule "Calculadora/Suma"]
+	path = Calculadora/Suma
+	url = https://github.com/2025-b-sw-construccion-gr2/carc-suma.git
+[submodule "Calculadora/Restam"]
+	path = Calculadora/Restam
+	url = https://github.com/2025-b-sw-construccion-gr2/carc-resta.git
+[submodule "Calculadora/Resta"]
+	path = Calculadora/Resta
+	url = https://github.com/2025-b-sw-construccion-gr2/carc-resta.git
