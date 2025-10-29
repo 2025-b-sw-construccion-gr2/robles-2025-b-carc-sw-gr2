@@ -1,0 +1,23 @@
+{
+  "name": "robles-2025-b-carc-sw-gr2-2",
+  "version": "1.0.0",
+  "description": "Cristian Alejandro Robles Cabrera carc\r Hola mundo!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2025-b-sw-construccion-gr2/robles-2025-b-carc-sw-gr2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2025-b-sw-construccion-gr2/robles-2025-b-carc-sw-gr2/issues"
+  },
+  "homepage": "https://github.com/2025-b-sw-construccion-gr2/robles-2025-b-carc-sw-gr2#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
